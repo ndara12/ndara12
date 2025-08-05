@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndara12
-- 👀 I’m interested in data science/engineering
+- 👀 I’m a software engineer
 - 📫 How to reach me --> bestasdara@gmail.com
 <!---
 ndara12/ndara12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
